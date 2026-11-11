@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "Início — Instrushop" },
+    { "path": "/catalogo.html", "title": "Catálogo — Instrushop" },
+    { "path": "/contato.html", "title": "Contato — Instrushop" },
+    { "path": "/guia-conservacao.html", "title": "Guia de conservação — Instrushop" }
+  ]
+}
